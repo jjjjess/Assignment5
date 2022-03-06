@@ -1,0 +1,9 @@
+					*** Opinion Paragraph on Refactoring Assignment ***
+					
+		I do believe that by refactoring this code, and adding syntax using 
+	“try-with” resources improves not only the readability, but also going forward, 
+	should this program need any changes, the programmer will have a much easier time 
+	determining which method needs to be analyzed and worked on for improvements. 
+	“try-with” also automatically invokes the “close()” method, saving the programmer 
+	from writing unnecessary lines of code that only increases the length of the program, 
+	and makes it’s readability worse 
